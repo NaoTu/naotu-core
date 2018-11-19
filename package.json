@@ -1,0 +1,8 @@
+{
+  "name": "naotu-core",
+  "version": "0.0.1",
+  "description": "Naotu Core Component",
+  "repository": "https://github.com/NaoTu/naotu-core.git",
+  "author": "ACTom <i@actom.me>",
+  "license": "GPL"
+}
